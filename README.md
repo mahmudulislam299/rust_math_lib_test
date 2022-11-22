@@ -1,4 +1,4 @@
-# Rand
+# Math_Lib_Test
 
 [![Test Status](https://github.com/rust-random/rand/workflows/Tests/badge.svg?event=push)](https://github.com/rust-random/rand/actions)
 [![Crate](https://img.shields.io/crates/v/rand.svg)](https://crates.io/crates/rand)
