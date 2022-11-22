@@ -1,5 +1,3 @@
-
-
 //! THis is is test library
 //!
 //! you add , sub , mul , div two number using this create
@@ -12,21 +10,6 @@
 //! [`thread_rng()`]. The [`Rng`] trait provides a useful API on all RNGs, while
 //! the [`distributions`] and [`seq`] modules provide further
 //! functionality on top of RNGs.
-//!
-//! ```
-//! use math_lib_test::{add, sub, take_retrun_string};
-
-//! fn it_works1() {
-//!    let result = add(2, 2);
-//!    assert_eq!(result, 4);
-//!}
-//!
-//!    fn it_works2() {
-//!
-//!        let result = sub(4,1);
-//!        assert_eq!(result,3);
-//! }
-//! ```
 //!
 //! # The Book
 //!
