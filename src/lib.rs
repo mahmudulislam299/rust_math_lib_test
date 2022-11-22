@@ -2,6 +2,14 @@ pub mod mul_div;
 pub mod struct_test;
 
 
+/// Adds two numbers.
+///
+/// # Examples
+///
+/// ```
+/// let result = add(2, 2);
+/// assert_eq!(result, 4);
+/// ```
 
 pub fn add(left: usize, right: usize) -> usize 
 {
